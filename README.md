@@ -1,2 +1,2 @@
-# MyApp
-This is my app
+# Playground for git commands
+Practicing git
